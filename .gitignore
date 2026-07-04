@@ -3,3 +3,7 @@
 *.png
 *.jpg
 *.jpeg
+
+# vim stuff idk
+*.un
+*.un~
